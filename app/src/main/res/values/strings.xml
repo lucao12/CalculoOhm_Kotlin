@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculadoraOhm</string>
+
+    <string-array name="opcoes">
+        <item>voltagem</item>
+        <item>corrente</item>
+        <item>resistência</item>
+    </string-array>
+</resources>
